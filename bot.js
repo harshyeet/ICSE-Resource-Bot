@@ -33,7 +33,8 @@ const menuMap = {
     buttons: [
       { label: "PW Modules", url: "https://mega.nz/folder/0EgAhKrY#9_fJ9r5HfHURYp7vuYYl-A" },
       { label: "ALLEN Modules", url: "https://mega.nz/folder/0V5CTKob#qxqV4FJzPTmfz_AxOgd8ow" },
-      { label: "Cengage Mathematics", url: "https://mega.nz/file/ZN5yzTCR#4wU4h8rv7esMZ7Iw3XXQ7c6gR38aVgam8kAQdMI0bbc" }
+      { label: "Cengage Mathematics", url: "https://mega.nz/file/ZN5yzTCR#4wU4h8rv7esMZ7Iw3XXQ7c6gR38aVgam8kAQdMI0bbc" },
+{ label: "JEE Books Masterlink", url: "https://drive.google.com/drive/u/0/mobile/folders/1HOA3eCRNlIDXZzGlsEJfqRKvVWfCw5p0" }
     ]
   },
   neet: {
